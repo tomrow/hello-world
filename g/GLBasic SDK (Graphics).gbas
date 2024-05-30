@@ -1,0 +1,3 @@
+PRINT "Hello world",0,0
+SHOWSCREEN
+SLEEP 1000
